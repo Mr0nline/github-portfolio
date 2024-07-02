@@ -18,7 +18,7 @@ function Footer() {
               href="https://www.linkedin.com/in/yagnesh-virani/"
               className="text-primary-icon"
             >
-              &nbsp;Yagnesh Virani
+              &nbsp;Yagnesh Sanghani
             </Link>
           </p>
           <div className="flex items-center gap-5">
